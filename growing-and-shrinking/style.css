@@ -1,0 +1,20 @@
+.container{
+    background-color:blueviolet;
+    padding:20px;
+    height:100px;
+    display:flex;
+}
+.one{
+    flex:none;
+    width:20px;
+    background-color:aqua;
+}
+.two{
+    flex:3;
+    background-color:azure;
+}
+.three{
+    flex:none;
+    width:20px;
+    background-color:aqua;
+}
